@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+
+}
+
+hr {
+     border-top: 1px solid yellow;
+}
+
+h1 {
+    color: blue;
+}
+
+h2, p {
+    color: red;
+}
+
